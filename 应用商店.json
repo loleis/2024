@@ -53,46 +53,40 @@
         "name": "內測版",
         "list": [
             {
-                "name": "電視-java",
-                "url": "https://fm.caioa.link/main/apk/dev/leanback-java-armeabi_v7a.apk",
+                "name": "521影视",
+                "url": "https://pan.shangui.cc/f/VXv4h8/521%E5%BD%B1%E8%A7%861.2.9.apk",
                 "icon": "https://i.imgs.ovh/2023/10/17/r8nk2.png",
-                "version": "v7a"
+                "version": "v1.2.9"
             },
             {
-                "name": "電視-java",
-                "url": "https://fm.caioa.link/main/apk/dev/leanback-java-arm64_v8a.apk",
+                "name": "欧歌宝盒",
+                "url": "https://pan.shangui.cc/f/gP6ySV/%E6%AC%A7%E6%AD%8C%E5%AE%9D%E7%9B%92.apk",
+                "icon": "https://i.imgs.ovh/2023/10/17/r8nk2.png",
+                "version": "v3.0.9"
+            },
+            {
+                "name": "宝盒",
+                "url": "https://pan.shangui.cc/f/QyBRFm/%E5%AE%9D%E7%9B%923.0.10.apk",
+                "icon": "https://i.imgs.ovh/2023/10/17/r8nk2.png",
+                "version": "v3.0.10"
+            },
+            {
+                "name": "黄金影视",
+                "url": "https://pan.shangui.cc/f/amxGc2/%E9%BB%84%E9%87%91%E5%BD%B1%E8%A7%86tv.apk",
                 "icon": "https://i.imgs.ovh/2023/10/17/r8nk2.png",
                 "version": "v8a"
             },
             {
-                "name": "電視-py",
-                "url": "https://fm.caioa.link/main/apk/dev/leanback-python-armeabi_v7a.apk",
-                "icon": "https://i.imgs.ovh/2023/10/17/r8nk2.png",
-                "version": "v7a"
-            },
-            {
-                "name": "電視-py",
-                "url": "https://fm.caioa.link/main/apk/dev/leanback-python-arm64_v8a.apk",
-                "icon": "https://i.imgs.ovh/2023/10/17/r8nk2.png",
-                "version": "v8a"
-            },
-            {
-                "name": "手機-java",
-                "url": "https://fm.caioa.link/main/apk/dev/mobile-java-armeabi_v7a.apk",
+                "name": "4K影院MAX",
+                "url": "https://pan.shangui.cc/f/q525sG/4K%E5%BD%B1%E9%99%A2MAX.apk",
                 "icon": "https://i.imgs.ovh/2023/10/17/r8lVK.png",
                 "version": "v7a"
             },
             {
-                "name": "手機-java",
-                "url": "https://fm.caioa.link/main/apk/dev/mobile-java-arm64_v8a.apk",
+                "name": "影视仓",
+                "url": "https://pan.shangui.cc/f/Z6vdiv/%E5%BD%B1%E8%A7%86%E4%BB%93_5.0.23%E5%8E%BB%E4%B8%89%E9%98%B2.apk",
                 "icon": "https://i.imgs.ovh/2023/10/17/r8lVK.png",
-                "version": "v8a"
-            },
-            {
-                "name": "手機-py",
-                "url": "https://fm.caioa.link/main/apk/dev/mobile-python-armeabi_v7a.apk",
-                "icon": "https://i.imgs.ovh/2023/10/17/r8lVK.png",
-                "version": "v7a"
+                "version": "v5.0.23"
             },
             {
                 "name": "手機-py",
