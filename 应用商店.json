@@ -46,11 +46,17 @@
                 "url": "https://pan.shangui.cc/f/Z6vdiv/%E5%BD%B1%E8%A7%86%E4%BB%93_5.0.23%E5%8E%BB%E4%B8%89%E9%98%B2.apk",
                 "icon": "https://i.imgs.ovh/2023/10/17/r8lVK.png",
                 "version": "v5.0.23"
+            },
+            {
+                "name": "欧歌影视仓",
+                "url": "https://pan.shangui.cc/f/jjnLF7/%E6%AC%A7%E6%AD%8C%E5%BD%B1%E8%A7%86v5.0.23.apk",
+                "icon": "https://i.imgs.ovh/2023/10/17/r8lVK.png",
+                "version": "v5.0.23"
             }
            ]
     },  
     {
-        "name": "內測版",
+        "name": "直播apk",
         "list": [
             {
                 "name": "521影视",
